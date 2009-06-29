@@ -21,6 +21,9 @@ module_init(modulab);
 module_exit(bye);
 
 MODULE_AUTHOR("Juan P. Daza P.");
-MODULE_LICENSE("GPL");
+MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Experimental module");
+MODULE_VERSION("0.0.1");
+
+
 
