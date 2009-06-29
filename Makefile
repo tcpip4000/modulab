@@ -13,7 +13,7 @@ clean:
 else
 
 $(info Building with with KERNELRELEASE = ${KERNELRELEASE})
-obj-m := hi.o
+obj-m := modulab.o
 
 endif
 
