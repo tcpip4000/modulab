@@ -3,10 +3,12 @@
 core 
 .depend 
 .*.cmd 
-*.ko 
+*.ko
 *.mod.c 
 *.markers
 *.order
 *.symvers
 .tmp_versions
+*.cmd
+*.mod.c
 
